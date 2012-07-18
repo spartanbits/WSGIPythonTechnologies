@@ -1,0 +1,3 @@
+[submodule "static/WSGIPythonTechnologies"]
+	path = static/WSGIPythonTechnologies
+	url = git://github.com/spartanbits/WSGIPythonTechnologies.git
